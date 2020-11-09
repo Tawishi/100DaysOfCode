@@ -9,7 +9,7 @@ Taking up the [100DaysofCode][1] challenge
   1. Keep a daily log of my progress/learnings (on Github)
 
 ***Let’s do this!*** <br>
-_Acknowledgement: [Alexander Kallaway][5] for introducing the challenge to the world._
+_Acknowledgement: Thank you to [Alexander Kallaway][5] for introducing the challenge to the world._
 
 [1]:https://twitter.com/_100DaysOfCode
 [2]:https://cses.fi/problemset/
