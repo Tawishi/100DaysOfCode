@@ -1,5 +1,5 @@
 # #100DaysOfCode
-Taking up the [100DaysofCode][1] challenge 
+Taking up the [100DaysofCode][1] challenge starting on Nov 10, 2020
 
 * Objective :  Practice the [CSES Problem Set][2]
 * Rules : 
@@ -14,5 +14,5 @@ _Acknowledgement: Thank you to [Alexander Kallaway][5] for introducing the chall
 [1]:https://twitter.com/_100DaysOfCode
 [2]:https://cses.fi/problemset/
 [3]:https://twitter.com/Tawishi1
-[4]:https://www.linkedin.com/in/tawishisharma/
+[4]:https://www.linkedin.com/posts/tawishisharma_100daysofcode-github-learning-activity-6731959496618381312-kb-z
 [5]:https://github.com/kallaway
