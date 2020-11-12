@@ -15,3 +15,6 @@ Things I learnt today,
 Steps to the solution :
 1. Today it was mostly working out the logic
 2. max_element() used
+# Day 03
+Completed the _Increasing array_ problem. <br>
+Looked at the _Permutations_ problem.
