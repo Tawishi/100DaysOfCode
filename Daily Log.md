@@ -18,3 +18,8 @@ Steps to the solution :
 # Day 03
 Completed the _Increasing array_ problem. <br>
 Looked at the _Permutations_ problem.
+# Day 04
+Tried solving _Permutations_ problem.<br>
+Program should print one beatiful permutation, if possible, for input n. Leared about:
+1. size_t data type in C++
+2. vector::back()
