@@ -25,3 +25,5 @@ Program should print one beautiful permutation, if possible, for input n. Learne
 2. vector::back()
 # Day 05
 Moved one-step closer to solving _Permutations_ problem.<br>
+# Day 06
+Trying to solve _Permutations_ problem.<br>
