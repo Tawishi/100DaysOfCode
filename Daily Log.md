@@ -27,3 +27,7 @@ Program should print one beautiful permutation, if possible, for input n. Learne
 Moved one-step closer to solving _Permutations_ problem.<br>
 # Day 06
 Trying to solve _Permutations_ problem.<br>
+# Day 07
+Solved _Permutations_ problem.<br>
+Tried _Number Spiral_ problem.
+>Sometimes we just need to shake things up.
