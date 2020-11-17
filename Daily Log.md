@@ -31,3 +31,5 @@ Trying to solve _Permutations_ problem.<br>
 Solved _Permutations_ problem.<br>
 Tried _Number Spiral_ problem.
 >Sometimes we just need to shake things up.
+# Day 08
+Solved _Number Spiral_ problem.
