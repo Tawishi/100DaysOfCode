@@ -33,3 +33,8 @@ Tried _Number Spiral_ problem.
 >Sometimes we just need to shake things up.
 # Day 08
 Solved _Number Spiral_ problem.
+# Day 09
+Solved _Bit Strings_ problem. <br>
+Learned : 
+* mod properties
+* overcome bit storage limitations in system
