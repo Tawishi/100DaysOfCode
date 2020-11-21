@@ -40,3 +40,5 @@ Learned :
 * overcome bit storage limitations in system
 # Day 10
 Solved _Two Sets_ problem.
+# Day 11
+Solved _Trailing Zeros_ problem.
