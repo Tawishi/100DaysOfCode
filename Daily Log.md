@@ -42,3 +42,5 @@ Learned :
 Solved _Two Sets_ problem.
 # Day 11
 Solved _Trailing Zeros_ problem.
+# Day 12
+Solved _COin Piles_ problem.
