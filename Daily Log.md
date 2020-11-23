@@ -44,3 +44,7 @@ Solved _Two Sets_ problem.
 Solved _Trailing Zeros_ problem.
 # Day 12
 Solved _Coin Piles_ problem.
+# Day 13
+Solved _Pallindrome Reorder_ problem. <br>
+Learned :
+* [Efficient program techniques](https://www.geeksforgeeks.org/writing-cc-code-efficiently-in-competitive-programming/)
