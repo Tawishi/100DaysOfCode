@@ -1,7 +1,7 @@
 # #100DaysOfCode
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Tawishi/100DaysOfCode)
 [![GitHub forks](https://img.shields.io/github/forks/Tawishi/100DaysOfCode.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Tawishi/100DaysOfCode)
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Tawishi/100DaysOfCode/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/Tawishi/100DaysOfCode.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Tawishi/100DaysOfCode/stargazers/)
 [![GitHub watchers](https://img.shields.io/github/watchers/Tawishi/100DaysOfCode.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Tawishi/100DaysOfCode/watchers/)
 ![Profile views](https://gpvc.arturio.dev/Tawishi)
 [![GitHub followers](https://img.shields.io/github/followers/Tawishi.svg?style=social&label=Follow&maxAge=2592000)](https://GitHub.com/Tawishi?tab=followers)
