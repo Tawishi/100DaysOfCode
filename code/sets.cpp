@@ -2,18 +2,19 @@
 
 using namespace std;
 
-vector<int> set;
+vector<int> subset;
 int n=3;
 
-int search(int k) {
+void search(int k) {
     if(k == n+1) {
-        for(int i=0; i < set.size(); i++)
-            cout << set.at(i) << ' ';
+        for(int i=0; i < subset.size(); i++)
+            cout << subset.at(i) << ' ';
+            cout<<endl;
         return;
     }
-    set.push_back(k);
+    subset.push_back(k);
     search(k+1);
-    set.pop_back();
+    subset.pop_back();
     search(k+1);
 }
 
