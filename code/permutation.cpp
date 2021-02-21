@@ -3,8 +3,8 @@
 using namespace std;
 
 vector<int> permutation;
-int n=3;
-bool chosen[n+1] = {false};
+const int n=4;
+bool chosen[n] = {false};
 
 void search() {
     if(permutation.size() == n) {
