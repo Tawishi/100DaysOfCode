@@ -5,3 +5,5 @@
 ## Day 2
 * Generating all permutations for an _n_ number set
 * Started with _Queens problem_
+## Day 3
+* Bit manipulation
