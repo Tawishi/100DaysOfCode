@@ -7,3 +7,6 @@
 * Started with _Queens problem_
 ## Day 3
 * Bit manipulation
+## Day 4
+* Spiral array
+* Rotating array
