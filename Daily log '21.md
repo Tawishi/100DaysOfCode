@@ -12,4 +12,7 @@
 * Rotating array
 ## Day 5
 * Large factorial (string)
+* Prime number or not
+## Day 6
+* List primes (Sieve of Ero...)
 * 
