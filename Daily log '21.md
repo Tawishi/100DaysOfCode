@@ -15,4 +15,8 @@
 * Prime number or not
 ## Day 6
 * List primes (Sieve of Ero...)
+## Day 7
+* _Min steps in Infinite Grid_
+* All factors
 * 
+* assert()
