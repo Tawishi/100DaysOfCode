@@ -17,6 +17,7 @@
 * List primes (Sieve of Ero...)
 ## Day 7
 * _Min steps in Infinite Grid_
-* All factors
-* 
+* All factors of _N_
 * assert()
+## Day 8
+* Revisiting _Queens problem_
