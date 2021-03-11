@@ -20,4 +20,5 @@
 * All factors of _N_
 * assert()
 ## Day 8
-* Revisiting _Queens problem_
+* Grey Code
+* Odd or Even
