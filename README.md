@@ -9,14 +9,12 @@
 
 
 
-Taking up the [100DaysofCode][1] challenge starting on Feb 20, 2021
+Taking up the [100DaysofCode][1] challenge starting on APril 1, 2021
 
 * Objective :  Practice the [CSES Problem Set][2]
 * Rules : 
   1. Code at least 1 hour every day for the next 100 days
-  1. Keep me publicly accountable
-  1. Connect with the 100DaysOfCode community on Twitter(and LinkedIn)
-  1. Keep a daily log of my progress/learnings (on Github)
+  1. Keep a daily log of my progress/learnings
 
 ***Let’s do this!*** <br>
 _Acknowledgement: Thank you [Alexander Kallaway][5] for introducing the challenge to the world._
