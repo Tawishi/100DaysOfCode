@@ -1,3 +1,5 @@
+***LOG 1: Trial 1***
+
 # Day 01
 Completed the _Missing Number_ problem. <br>
 Things I learnt today,
