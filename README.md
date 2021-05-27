@@ -9,9 +9,10 @@
 
 
 
-Taking up the [100DaysofCode][1] challenge starting on APril 1, 2021
+Taking up the [100DaysofCode][1] challenge; started on 27 May, 2021
+(3rd try :expressionless:)
 
-* Objective :  Practice the [CSES Problem Set][2]
+* Objective :  Practice the [CSES Problem Set][2] & do DSA
 * Rules : 
   1. Code at least 1 hour every day for the next 100 days
   1. Keep a daily log of my progress/learnings
