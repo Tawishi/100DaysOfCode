@@ -46,11 +46,15 @@ int main() {
             cout<<"0";
     }
 
-// set kthe bit to 1 : x | (1<<k)
+// kth bit to 1 : x | (1<<k)
 
-// set kth bit to 0 : x & ~(1<<k)
+// kth bit to 0 : x & ~(1<<k)
 
 // long long bit mask : 1LL<<k
+
+// in-built functions
+cout<<"\n"<< __builtin_clz(x)<<"\n"<<__builtin_ctz(x)<<"\n"<<__builtin_popcount(x)<<"\n"<<__builtin_parity(x);
+
 return 0;
 
 }
