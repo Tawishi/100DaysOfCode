@@ -1,7 +1,9 @@
 ## Day 1 & 2
-* revisit besics
+* revisit basics
 ## Day 3
 * bit manipulation
+* tapping water
+* reersing array
 ## Day 4
 * sieve of eras...
 * permutations
@@ -13,3 +15,6 @@
 * modulo props
 * digits in factorial
 * modular inverse(euclidian ext.)
+## Day 7
+* rotating array
+* remove duplicates in array
