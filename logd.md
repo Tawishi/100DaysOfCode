@@ -18,3 +18,10 @@
 ## Day 7
 * rotating array
 * remove duplicates in array
+## Day 8
+* some more basic q. of arrays
+    * reverse array in groups
+    * transition pt. in array - B.search
+    * equi point in array
+    * leaders in an array
+
