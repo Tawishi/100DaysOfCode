@@ -24,4 +24,13 @@
     * transition pt. in array - B.search
     * equi point in array
     * leaders in an array
+## Day 9
+## Day 10
+* arrays basic
+    * wave array
+    * subarray with given sum
+    * first repeating element
+    * immediate smaller
+    * max subarray sum
+    * smallest pos missing no.
 
