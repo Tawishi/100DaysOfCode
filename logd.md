@@ -33,4 +33,33 @@
     * immediate smaller
     * max subarray sum
     * smallest pos missing no.
-
+## Day 11
+* arrays b.
+    * rearrange an array; O(1) space :)
+### Day 12
+### Day 13
+### Day 14
+### Day 15
+### Day 16
+### Day 17
+### Day 18
+### Day 19
+### Day 20
+### Day 21
+## Day 22
+* sq. root of a num
+* guess game
+* sorted array number freq.
+***end of series of unfortunate events***
+## Day 23
+* array b.
+    * prefixSum
+    * equilibrium index
+    * largest sub-array
+    * merge 2 sub-arrays
+### Day 24
+* array b.
+    * rotate k-elements
+### Day 25
+* searching
+    * ternary search
