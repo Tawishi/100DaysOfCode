@@ -63,3 +63,6 @@
 ### Day 25
 * searching
     * ternary search
+### Day 25
+* searching
+    * missing and repeating num
