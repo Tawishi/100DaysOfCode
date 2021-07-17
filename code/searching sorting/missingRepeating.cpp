@@ -19,10 +19,20 @@ int main() {
         arr[abs(arr[i])-1] = -arr[abs(arr[i])-1];
     }
 
+    // for(int i=0;i<n;i++) 
+    //     cout<<arr[i]<<" ";
+    
+    // cout<<"\n";
+
     for(int i=0;i<n;i++) {
-        if(arr[i] > 0)
-            missing = i;
+        // cout<<arr[i]<<" ";
+        if(arr[i] > 0 && arr[i]!= repeat) {
+        // cout<<"\n"<<arr[i]<<" ";
+            missing = i + 1;
+            break;
+        }
     }
+
 
     if(repeat == 2 && missing == 4)
         cout<<"Passed"<<"\nExpected output : 2 4"<<"\nYour output : "<<repeat<< " "<<missing<<endl;
