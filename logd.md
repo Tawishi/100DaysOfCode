@@ -57,12 +57,16 @@
     * equilibrium index
     * largest sub-array
     * merge 2 sub-arrays
-### Day 24
+## Day 24
 * array b.
     * rotate k-elements
-### Day 25
+## Day 25
 * searching
     * ternary search
-### Day 25
+## Day 25
 * searching
     * missing and repeating num
+### Day 26-51
+## Day 52
+* quicksort
+* mergesort
