@@ -70,3 +70,13 @@
 ## Day 52
 * quicksort
 * mergesort
+## Day 53
+* counting sort
+* radix sort
+## Day 54
+* union of sorted arrays
+* intersection of sorted arrays
+## Day 55
+* pair, maps stl, multimaps
+* minimum swaps
+* minimum platforms

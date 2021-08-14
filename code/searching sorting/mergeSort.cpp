@@ -42,12 +42,12 @@ void merge(int arr[], int low, int high, int mid) {
 
 void mergeSort(int arr[], int low, int high) {
     if (low < high) {
-    int mid = low + (high-low)/2;
+        int mid = low + (high-low)/2;
 
-    mergeSort(arr,low,mid);
-    mergeSort(arr,mid+1,high);
+        mergeSort(arr,low,mid);
+        mergeSort(arr,mid+1,high);
 
-    merge(arr,low,high,mid);
+        merge(arr,low,high,mid);
     }
 }
 
@@ -55,7 +55,7 @@ int main() {
     int n;
     n = sizeof(arr)/sizeof(arr[0]);
 
-    mergeSort(arr,0,n);
+    mergeSort(arr,0,n-1);
 
     for(int i=0;i<n;i++)
         cout<<arr[i]<<" ";
