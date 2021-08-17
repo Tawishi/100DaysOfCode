@@ -84,3 +84,9 @@
 ## Day 57
 * median of sorted arrays
 * sort 0's,1's,2's
+## Day 58
+* rotate matrix in-place
+* search in row-wise sorted matrix
+* spiral matrix traversal
+* add, multiply matrices
+* in-place transpose of matrix
