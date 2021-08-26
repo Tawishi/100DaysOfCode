@@ -90,3 +90,13 @@
 * spiral matrix traversal
 * add, multiply matrices
 * in-place transpose of matrix
+### Day 59
+### Day 60
+## Day 61
+* determinant
+### Day 62-67
+## Day 68
+* Laregest Area Binary Matrix
+* Search in row-col sorted matrix
+* Largest Area Unit histogram
+* max square area
