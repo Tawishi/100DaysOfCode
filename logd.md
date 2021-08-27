@@ -100,3 +100,8 @@
 * Search in row-col sorted matrix
 * Largest Area Unit histogram
 * max square area
+## Day 69
+* Roman number conversion
+* Max char count
+* Pangram check
+* Binary string check
