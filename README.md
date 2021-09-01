@@ -15,7 +15,7 @@
 Taking up the [100DaysofCode][1] challenge; started on 27 May, 2021
 (3rd try :expressionless:)
 
-* Objective :  Bsic DSA<!--  and [CSES Problem Set][2] -->
+* Objective :  Basic DSA<!--  and [CSES Problem Set][2] -->
 * Rules : 
   1. Code at least 1 hour every day for the next 100 days
   1. Keep a daily log of my progress/learnings
