@@ -1,5 +1,7 @@
 # #100DaysOfCode
 ### How I did it  
+![literally me](https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif?cid=ecf05e47viupe0d9k4pnagacz1g6opytul4dv0nmn41aworj&rid=giphy.gif&ct=g)
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Tawishi/100DaysOfCode)
 [![GitHub forks](https://img.shields.io/github/forks/Tawishi/100DaysOfCode.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Tawishi/100DaysOfCode)
 [![GitHub stars](https://img.shields.io/github/stars/Tawishi/100DaysOfCode.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Tawishi/100DaysOfCode/stargazers/)
