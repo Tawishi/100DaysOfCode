@@ -105,3 +105,9 @@
 * Max char count
 * Pangram check
 * Binary string check
+### Day 70-72
+## Day 73
+* strstr
+## Day 74
+* remainder with 7
+* check if rotation of each other

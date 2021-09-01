@@ -1,4 +1,5 @@
 # #100DaysOfCode
+### How I did it  
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Tawishi/100DaysOfCode)
 [![GitHub forks](https://img.shields.io/github/forks/Tawishi/100DaysOfCode.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Tawishi/100DaysOfCode)
 [![GitHub stars](https://img.shields.io/github/stars/Tawishi/100DaysOfCode.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Tawishi/100DaysOfCode/stargazers/)
@@ -12,7 +13,7 @@
 Taking up the [100DaysofCode][1] challenge; started on 27 May, 2021
 (3rd try :expressionless:)
 
-* Objective :  Practice the do DSA<!--  and [CSES Problem Set][2] -->
+* Objective :  Bsic DSA<!--  and [CSES Problem Set][2] -->
 * Rules : 
   1. Code at least 1 hour every day for the next 100 days
   1. Keep a daily log of my progress/learnings
